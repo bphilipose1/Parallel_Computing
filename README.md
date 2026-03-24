@@ -101,11 +101,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Status
 
-🚧 **In Development** — Phase 1 (Documentation & Structure) in progress
-
-## License
-
-MIT (or specify your preference)
+🚧 **Completed** — Courses have been completed.
 
 ## Author
 
