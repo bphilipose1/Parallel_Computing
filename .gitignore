@@ -1,0 +1,46 @@
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+*.dylib
+*.exe
+
+# Executables
+GPU_ACCEL_SORTING/gpu_sorting
+MPI_Clustering_Training/hw5
+MPI_Clustering_Training/kmean_color_test
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Output files
+output.txt
+*.log
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Data (except sample data)
+*.csv
+!data/sample_*.csv
+
+# Temporary files
+*.tmp
+.tmp/
